@@ -27,13 +27,14 @@
 - 직관적인 사용자 인터페이스
 - 다크 모드/라이트 모드 지원
 - 접근성 고려 (WCAG 지침 준수)
+- **UI 라이브러리: Mantine 사용**
 
 ### 2.5 데이터 관리
 - DynamoDB를 사용
 
 ## 3. 기술 스택
 - 프론트엔드: React
-    - UI 라이브러리: Tailwind
+    - UI 라이브러리: **Mantine**
     - 상태 관리: React Context + useReducer
     - 테스트: Jest, React Testing Library
 - 백엔드: Node.js (TypeScript)
